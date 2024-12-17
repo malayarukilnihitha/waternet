@@ -1,6 +1,6 @@
 # waternet
 1. Implementation of Waternet on UIEB dataset which is proposed by Chongyi Li et al. in "An Underwater Image Enhancement Benchmark Dataset and Beyond"
-cite as : 
+2. cite as : 
 @ARTICLE{8917818,
   author={Li, Chongyi and Guo, Chunle and Ren, Wenqi and Cong, Runmin and Hou, Junhui and Kwong, Sam and Tao, Dacheng},
   journal={IEEE Transactions on Image Processing}, 
@@ -12,9 +12,10 @@ cite as :
   keywords={Image enhancement;Convolutional neural networks;Deep learning;Image restoration;Object detection;Statistical analysis;Underwater technology;Underwater image enhancement;real-world underwater images;comprehensive evaluation;deep learning},
   doi={10.1109/TIP.2019.2955241}}
 
-2. An enhanced version of Waternet by modifying few layers in the model achieved better results than waternet proposed in 2020
-3. Enhanced version of waternet is: An ensemble deep learning approach for underwater image enhancement
-4. cite as:
+
+3. An enhanced version of Waternet by modifying few layers in the model achieved better results than waternet proposed in 2020
+4. Enhanced version of waternet is: An ensemble deep learning approach for underwater image enhancement
+5. cite as:
 @article{PRIYADHARSHINI2024100634,
 title = {An ensemble deep learning approach for underwater image enhancement},
 journal = {e-Prime - Advances in Electrical Engineering, Electronics and Energy},
