@@ -1,0 +1,7 @@
+{
+    "epochs": 50,
+    "batch_size": 16,
+    "im_height": 112,
+    "im_width": 112,
+    "weights": null
+}
